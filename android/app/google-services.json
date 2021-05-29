@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422328979595",
+    "project_id": "meals-final",
+    "storage_bucket": "meals-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422328979595:android:31bea2884d3019f9e4048e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422328979595-3ff2sh204c7c6ksr3fqfbgsg3ejnr6g5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Sle66HhslqJoCxZkAKPjORINVNQzOIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422328979595-3ff2sh204c7c6ksr3fqfbgsg3ejnr6g5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
